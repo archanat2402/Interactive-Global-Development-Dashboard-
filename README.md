@@ -15,4 +15,4 @@ An interactive Plotly dashboard built for DS-2 (Data Visualisation).
 
 ## How to view
 Download `dashboard.html` and open it in any browser (internet needed to load Plotly).
-Notebook: `your-notebook-name.ipynb`
+Notebook: `TASK_2.ipynb`
