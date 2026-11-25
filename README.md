@@ -92,9 +92,9 @@ df = px.data.gapminder()
 ```text
 Interactive-Global-Development-Dashboard/
 │
-├── Interactive Global Development Dashboard.ipynb
+├── Interactive_Global_Development_Dashboard.ipynb
 │
-├── dashboard(3).html
+├── dashboard (3).html
 │
 ├── requirements.txt
 │
@@ -105,7 +105,7 @@ Interactive-Global-Development-Dashboard/
 
 ### Option 1: View the Interactive Dashboard
 
-1. Download `dashboard(3).html` from this repository.
+1. Download `dashboard (3).html` from this repository.
 2. Open it using a modern web browser.
 3. Explore the interactive charts using the available controls.
 
